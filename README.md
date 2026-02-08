@@ -2,7 +2,7 @@
 Doodle Art Recognition App
 
 
-Why I made this:
+Why I made this: for fun
 
 How to play:
 
